@@ -8,19 +8,19 @@ The dashboard provides a "Single Source of Truth" for insurance operations, movi
 ## Key Features & Insights
 Comprehensive Overview: Analyzes Total Premium Paid (39.10bn) across various dimensions including Policy Type, State, and Tenure.
 
-### Time-Series Analysis: Visualizes premium trends from 2016 to 2024 to identify growth cycles and seasonal patterns.
+Time-Series Analysis: Visualizes premium trends from 2016 to 2024 to identify growth cycles and seasonal patterns.
 
-### Granular Data Extraction: Features a detailed Summary Table enabling users to pull row-level data for over 7,200 active policies, including Customer IDs and maturity details.
+ranular Data Extraction: Features a detailed Summary Table enabling users to pull row-level data for over 7,200 active policies, including Customer IDs and maturity details.
 
-### Advanced Metrics: Includes automated calculations for Annualised ROI% (8.82%) and CAGR% (5.19%), ensuring mathematical accuracy across the board.
+Advanced Metrics: Includes automated calculations for Annualised ROI% (8.82%) and CAGR% (5.19%), ensuring mathematical accuracy across the board.
 
-### Operational Filtering: Dynamic slicers for Sales Agent, State, and Policy Name allow for instant, requirement-based data segmenting without manual spreadsheet manipulation.
+Operational Filtering: Dynamic slicers for Sales Agent, State, and Policy Name allow for instant, requirement-based data segmenting without manual spreadsheet manipulation.
 
 ## Technical Stack
 Tool: Power BI Desktop
 
-### Data Modeling: Star Schema with centralized fact tables and dimension lookups.
+Data Modeling: Star Schema with centralized fact tables and dimension lookups.
 
-### DAX: Utilized for complex time-intelligence and ROI calculations.
+DAX: Utilized for complex time-intelligence and ROI calculations.
 
-### Visualization: Integrated custom KPIs, line charts for trend analysis, and interactive tables for data auditing.
+Visualization: Integrated custom KPIs, line charts for trend analysis, and interactive tables for data auditing.
